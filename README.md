@@ -1,4 +1,4 @@
-<h1> Sam Bloomingdale </h1><br>
+![index](https://user-images.githubusercontent.com/16036598/208166878-9446d2d9-d081-4a51-8ef8-2bfa5eb0938b.png)
 <h2>Software Engineer Intern with NASA<h3>
 <p style = "margin-left: 40px"> - [Human Landing Site Availability @ Glenn Research Center](<a href="https://www.nasa.gov/feature/moon-s-south-pole-in-nasa-s-landing-sites"> Artemis III Sites </a>)</p>
 <br><br>
